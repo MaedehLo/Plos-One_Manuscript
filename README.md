@@ -1,2 +1,2 @@
 # Plos-One_Manuscript
-Measuring alignment of structural proteins in engineered tissue constructs using polarized Raman spectroscopy 
+Measuring Alignment of Structural Proteins in Engineered Tissue Constructs Using Polarized Raman Spectroscopy 
